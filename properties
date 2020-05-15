@@ -1,0 +1,5 @@
+version_prefix=0.1
+version=$version_prefix.$BUILD_NUMBER
+container_name=graphql
+dtr_org=exhaust
+tag=$dtr_host/$dtr_org/$container_name:$version

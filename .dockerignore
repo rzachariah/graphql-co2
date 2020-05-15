@@ -1,0 +1,10 @@
+.git
+.gitignore
+.gitattributes
+README.md
+
+.vscode
+node_modules
+scripts
+slave
+node_modules

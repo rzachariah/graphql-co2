@@ -1,0 +1,21 @@
+{
+  "name": "component-test-client",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Component test",
+  "author": "Ranjith Zachariah <rzachariah@ezesoft.com>",
+  "license": "ISC",
+  "scripts": {
+    "test": "jasmine-node spec",
+    "test-api": "jasmine-node spec --junitreport"
+  },
+  "dependencies": {
+    "btoa": "^1.2.1",
+    "chai": "^4.2.0",
+    "cucumber": "^5.1.0",
+    "frisby": "0.8.5",
+    "fs-extra": "^8.0.1",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  }
+}

@@ -1,0 +1,16 @@
+version: '3.7'
+services:
+  sut:
+    build:
+      context: .
+    environment:
+      - MODE=localdev
+
+  test:
+    build: tests/component/client
+    environment:
+      - BASE_URL=http://sut:80
+    volumes:
+      - ./test-reports:/app/reports
+    depends_on:
+      - sut

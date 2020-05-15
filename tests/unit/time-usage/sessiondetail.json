@@ -1,0 +1,1161 @@
+{
+  "data": {
+    "sessionDetail": [
+      {
+        "id": "_a09ut103g",
+        "time": "1515285377942",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/trading/blotter",
+        "minutes": 1
+      },
+      {
+        "id": "_a09ut103g",
+        "time": "1515285437949",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/analytics/user/80511bbc-9e3b-4846-b904-a0e3f6bf402a",
+        "minutes": 2
+      },
+      {
+        "id": "_rzovag78c",
+        "time": "1515286058845",
+        "fqn": "AWSProd/T78G5/AutomationTests",
+        "hash": "#/app/operations/operationsBlotter",
+        "minutes": 1
+      },
+      {
+        "id": "_m02f0d48c",
+        "time": "1515286309823",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/trading/blotter",
+        "minutes": 1
+      },
+      {
+        "id": "_m02f0d48c",
+        "time": "1515286369830",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/analytics/user/a294422a-f42f-4df6-8c1c-1154d6edd8e0",
+        "minutes": 2
+      },
+      {
+        "id": "_i5xkyn1kq",
+        "time": "1515286957944",
+        "fqn": "AWSProd/T78G5/AutomationTests",
+        "hash": "#/app/operations/operationsBlotter",
+        "minutes": 1
+      },
+      {
+        "id": "_elvie16q1",
+        "time": "1515287215748",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/trading/blotter",
+        "minutes": 1
+      },
+      {
+        "id": "_elvie16q1",
+        "time": "1515287275747",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/analytics/user/a745b33c-2048-4ddc-86fe-9a7f14a20a7e",
+        "minutes": 2
+      },
+      {
+        "id": "_a3gonl315",
+        "time": "1515287884649",
+        "fqn": "AWSProd/T78G5/AutomationTests",
+        "hash": "#/app/operations/operationsBlotter",
+        "minutes": 1
+      },
+      {
+        "id": "_0pdom1b7m",
+        "time": "1515288156030",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/trading/blotter",
+        "minutes": 1
+      },
+      {
+        "id": "_0pdom1b7m",
+        "time": "1515288216026",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/analytics/user/ac283f14-6ba5-4754-85c9-49c9fb624730",
+        "minutes": 2
+      },
+      {
+        "id": "_pdxo8bo0f",
+        "time": "1515288758036",
+        "fqn": "AWSProd/T78G5/AutomationTests",
+        "hash": "#/app/operations/operationsBlotter",
+        "minutes": 1
+      },
+      {
+        "id": "_i83lvhpkb",
+        "time": "1515288987097",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/trading/blotter",
+        "minutes": 1
+      },
+      {
+        "id": "_i83lvhpkb",
+        "time": "1515289047088",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/analytics/user/f2e11c44-a494-418e-9618-17d5595abc6f",
+        "minutes": 2
+      },
+      {
+        "id": "_snixp84ld",
+        "time": "1515289665052",
+        "fqn": "AWSProd/T78G5/AutomationTests",
+        "hash": "#/app/operations/operationsBlotter",
+        "minutes": 1
+      },
+      {
+        "id": "_6ye4esion",
+        "time": "1515289898539",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/trading/blotter",
+        "minutes": 1
+      },
+      {
+        "id": "_6ye4esion",
+        "time": "1515289958538",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/analytics/user/64c64f3a-b546-47d3-b386-1ea2122889a3",
+        "minutes": 2
+      },
+      {
+        "id": "_e3plson20",
+        "time": "1515290558113",
+        "fqn": "AWSProd/T78G5/AutomationTests",
+        "hash": "#/app/operations/operationsBlotter",
+        "minutes": 1
+      },
+      {
+        "id": "_xvhp9toy4",
+        "time": "1515290794058",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/trading/blotter",
+        "minutes": 1
+      },
+      {
+        "id": "_xvhp9toy4",
+        "time": "1515290854022",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/analytics/user/5d3eecfe-d638-4e18-8753-91da47c401ab",
+        "minutes": 2
+      },
+      {
+        "id": "_b7j6lpjrk",
+        "time": "1515291456721",
+        "fqn": "AWSProd/T78G5/AutomationTests",
+        "hash": "#/app/operations/operationsBlotter",
+        "minutes": 1
+      },
+      {
+        "id": "_b7j6lpjrk",
+        "time": "1515291516724",
+        "fqn": "AWSProd/T78G5/AutomationTests",
+        "hash": "#/app/analytics/user/4cf62f50-433c-45dc-af4b-77675c6c0e1f",
+        "minutes": 2
+      },
+      {
+        "id": "_q3uzs9uym",
+        "time": "1515291700274",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/trading/blotter",
+        "minutes": 1
+      },
+      {
+        "id": "_q3uzs9uym",
+        "time": "1515291760272",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/analytics/user/991b437d-fede-4a9c-bc38-d7651e27f00e",
+        "minutes": 2
+      },
+      {
+        "id": "_n3cwatk4b",
+        "time": "1515292364976",
+        "fqn": "AWSProd/T78G5/AutomationTests",
+        "hash": "#/app/operations/operationsBlotter",
+        "minutes": 1
+      },
+      {
+        "id": "_n4j1jb69u",
+        "time": "1515292596069",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/trading/blotter",
+        "minutes": 1
+      },
+      {
+        "id": "_n4j1jb69u",
+        "time": "1515292656073",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/analytics/user/86824be0-c0ad-46b8-ae16-54347d37884c",
+        "minutes": 2
+      },
+      {
+        "id": "_wm6wz4ibj",
+        "time": "1515293262126",
+        "fqn": "AWSProd/T78G5/AutomationTests",
+        "hash": "#/app/operations/operationsBlotter",
+        "minutes": 1
+      },
+      {
+        "id": "_a4e3ncph3",
+        "time": "1515293504346",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/trading/blotter",
+        "minutes": 1
+      },
+      {
+        "id": "_a4e3ncph3",
+        "time": "1515293564344",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/analytics/user/5bea602c-3329-40c1-b506-cbe9a2033c5c",
+        "minutes": 2
+      },
+      {
+        "id": "_x21ksy5u9",
+        "time": "1515294160246",
+        "fqn": "AWSProd/T78G5/AutomationTests",
+        "hash": "#/app/operations/operationsBlotter",
+        "minutes": 1
+      },
+      {
+        "id": "_vc1dupi65",
+        "time": "1515294347241",
+        "fqn": "AWSProd/TT1D8/DigitalExhaust",
+        "hash": "#/app/analytics/summary",
+        "minutes": 1
+      },
+      {
+        "id": "_zg4ib8y27",
+        "time": "1515294397566",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/trading/blotter",
+        "minutes": 1
+      },
+      {
+        "id": "_vc1dupi65",
+        "time": "1515294407256",
+        "fqn": "AWSProd/TT1D8/DigitalExhaust",
+        "hash": "#/app/analytics/summary",
+        "minutes": 2
+      },
+      {
+        "id": "_zg4ib8y27",
+        "time": "1515294457556",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/analytics/user/84c8ca2b-3d02-406b-b4f0-17fc02c41751",
+        "minutes": 2
+      },
+      {
+        "id": "_vc1dupi65",
+        "time": "1515294467255",
+        "fqn": "AWSProd/TT1D8/DigitalExhaust",
+        "hash": "#/app/analytics/summary",
+        "minutes": 3
+      },
+      {
+        "id": "_vc1dupi65",
+        "time": "1515294527258",
+        "fqn": "AWSProd/TT1D8/DigitalExhaust",
+        "hash": "#/app/analytics/summary",
+        "minutes": 4
+      },
+      {
+        "id": "_vc1dupi65",
+        "time": "1515294587264",
+        "fqn": "AWSProd/TT1D8/DigitalExhaust",
+        "hash": "#/app/analytics/summary",
+        "minutes": 5
+      },
+      {
+        "id": "_vc1dupi65",
+        "time": "1515294647269",
+        "fqn": "AWSProd/TT1D8/DigitalExhaust",
+        "hash": "#/app/analytics/summary",
+        "minutes": 6
+      },
+      {
+        "id": "_vc1dupi65",
+        "time": "1515294707268",
+        "fqn": "AWSProd/TT1D8/DigitalExhaust",
+        "hash": "#/app/analytics/summary",
+        "minutes": 7
+      },
+      {
+        "id": "_vc1dupi65",
+        "time": "1515294767279",
+        "fqn": "AWSProd/TT1D8/DigitalExhaust",
+        "hash": "#/app/analytics/summary",
+        "minutes": 8
+      },
+      {
+        "id": "_vc1dupi65",
+        "time": "1515294826319",
+        "fqn": "AWSProd/TT1D8/DigitalExhaust",
+        "hash": "#/app/analytics/summary",
+        "minutes": 9
+      },
+      {
+        "id": "_vc1dupi65",
+        "time": "1515294886796",
+        "fqn": "AWSProd/TT1D8/DigitalExhaust",
+        "hash": "#/app/analytics/summary",
+        "minutes": 10
+      },
+      {
+        "id": "_vc1dupi65",
+        "time": "1515294946861",
+        "fqn": "AWSProd/TT1D8/DigitalExhaust",
+        "hash": "#/app/analytics/summary",
+        "minutes": 11
+      },
+      {
+        "id": "_vc1dupi65",
+        "time": "1515295007299",
+        "fqn": "AWSProd/TT1D8/DigitalExhaust",
+        "hash": "#/app/analytics/summary",
+        "minutes": 12
+      },
+      {
+        "id": "_0dghi22ja",
+        "time": "1515295063284",
+        "fqn": "AWSProd/T78G5/AutomationTests",
+        "hash": "#/app/operations/operationsBlotter",
+        "minutes": 1
+      },
+      {
+        "id": "_vc1dupi65",
+        "time": "1515295067293",
+        "fqn": "AWSProd/TT1D8/DigitalExhaust",
+        "hash": "#/app/analytics/summary",
+        "minutes": 13
+      },
+      {
+        "id": "_vc1dupi65",
+        "time": "1515295127296",
+        "fqn": "AWSProd/TT1D8/DigitalExhaust",
+        "hash": "#/app/analytics/summary",
+        "minutes": 14
+      },
+      {
+        "id": "_vc1dupi65",
+        "time": "1515295187308",
+        "fqn": "AWSProd/TT1D8/DigitalExhaust",
+        "hash": "#/app/analytics/summary",
+        "minutes": 15
+      },
+      {
+        "id": "_vc1dupi65",
+        "time": "1515295247314",
+        "fqn": "AWSProd/TT1D8/DigitalExhaust",
+        "hash": "#/app/analytics/summary",
+        "minutes": 16
+      },
+      {
+        "id": "_js8bd8xdk",
+        "time": "1515295300846",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/trading/blotter",
+        "minutes": 1
+      },
+      {
+        "id": "_vc1dupi65",
+        "time": "1515295307353",
+        "fqn": "AWSProd/TT1D8/DigitalExhaust",
+        "hash": "#/app/analytics/summary",
+        "minutes": 17
+      },
+      {
+        "id": "_js8bd8xdk",
+        "time": "1515295360832",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/analytics/user/439615b9-d760-431e-9a78-26cf1f0e3c21",
+        "minutes": 2
+      },
+      {
+        "id": "_vc1dupi65",
+        "time": "1515295367315",
+        "fqn": "AWSProd/TT1D8/DigitalExhaust",
+        "hash": "#/app/analytics/summary",
+        "minutes": 18
+      },
+      {
+        "id": "_vc1dupi65",
+        "time": "1515295427332",
+        "fqn": "AWSProd/TT1D8/DigitalExhaust",
+        "hash": "#/app/analytics/summary",
+        "minutes": 19
+      },
+      {
+        "id": "_vc1dupi65",
+        "time": "1515295487322",
+        "fqn": "AWSProd/TT1D8/DigitalExhaust",
+        "hash": "#/app/analytics/summary",
+        "minutes": 20
+      },
+      {
+        "id": "_vc1dupi65",
+        "time": "1515295547328",
+        "fqn": "AWSProd/TT1D8/DigitalExhaust",
+        "hash": "#/app/analytics/summary",
+        "minutes": 21
+      },
+      {
+        "id": "_vc1dupi65",
+        "time": "1515295607336",
+        "fqn": "AWSProd/TT1D8/DigitalExhaust",
+        "hash": "#/app/analytics/summary",
+        "minutes": 22
+      },
+      {
+        "id": "_vc1dupi65",
+        "time": "1515295667338",
+        "fqn": "AWSProd/TT1D8/DigitalExhaust",
+        "hash": "#/app/analytics/summary",
+        "minutes": 23
+      },
+      {
+        "id": "_vc1dupi65",
+        "time": "1515295726440",
+        "fqn": "AWSProd/TT1D8/DigitalExhaust",
+        "hash": "#/app/analytics/summary",
+        "minutes": 24
+      },
+      {
+        "id": "_vc1dupi65",
+        "time": "1515295787350",
+        "fqn": "AWSProd/TT1D8/DigitalExhaust",
+        "hash": "#/app/analytics/summary",
+        "minutes": 25
+      },
+      {
+        "id": "_vc1dupi65",
+        "time": "1515295847342",
+        "fqn": "AWSProd/TT1D8/DigitalExhaust",
+        "hash": "#/app/analytics/summary",
+        "minutes": 26
+      },
+      {
+        "id": "_vc1dupi65",
+        "time": "1515295907190",
+        "fqn": "AWSProd/TT1D8/DigitalExhaust",
+        "hash": "#/app/analytics/summary",
+        "minutes": 27
+      },
+      {
+        "id": "_e8kknga7o",
+        "time": "1515295958565",
+        "fqn": "AWSProd/T78G5/AutomationTests",
+        "hash": "#/app/operations/operationsBlotter",
+        "minutes": 1
+      },
+      {
+        "id": "_vc1dupi65",
+        "time": "1515295967212",
+        "fqn": "AWSProd/TT1D8/DigitalExhaust",
+        "hash": "#/app/analytics/summary",
+        "minutes": 28
+      },
+      {
+        "id": "_vc1dupi65",
+        "time": "1515296027435",
+        "fqn": "AWSProd/TT1D8/DigitalExhaust",
+        "hash": "#/app/analytics/summary",
+        "minutes": 29
+      },
+      {
+        "id": "_vc1dupi65",
+        "time": "1515296087358",
+        "fqn": "AWSProd/TT1D8/DigitalExhaust",
+        "hash": "#/app/analytics/summary",
+        "minutes": 30
+      },
+      {
+        "id": "_qrpvz9k57",
+        "time": "1515296197788",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/trading/blotter",
+        "minutes": 1
+      },
+      {
+        "id": "_qrpvz9k57",
+        "time": "1515296257789",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/analytics/user/a19a7ac6-50e0-49c0-aa63-daf29be4283d",
+        "minutes": 2
+      },
+      {
+        "id": "_9l062dlva",
+        "time": "1515296859302",
+        "fqn": "AWSProd/T78G5/AutomationTests",
+        "hash": "#/app/operations/operationsBlotter",
+        "minutes": 1
+      },
+      {
+        "id": "_dv7mmhhfw",
+        "time": "1515297102918",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/trading/blotter",
+        "minutes": 1
+      },
+      {
+        "id": "_dv7mmhhfw",
+        "time": "1515297162920",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/analytics/user/0bedff65-c2f5-45b7-8e5c-f0b96387cd34",
+        "minutes": 2
+      },
+      {
+        "id": "_c1bu8qgly",
+        "time": "1515297765174",
+        "fqn": "AWSProd/T78G5/AutomationTests",
+        "hash": "#/app/operations/operationsBlotter",
+        "minutes": 1
+      },
+      {
+        "id": "_emc3yqktm",
+        "time": "1515298015094",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/trading/blotter",
+        "minutes": 1
+      },
+      {
+        "id": "_emc3yqktm",
+        "time": "1515298075119",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/analytics/user/277531bd-5a7f-40a2-befa-2d5cc7b512b5",
+        "minutes": 2
+      },
+      {
+        "id": "_4rtpzl39c",
+        "time": "1515298660598",
+        "fqn": "AWSProd/T78G5/AutomationTests",
+        "hash": "#/app/operations/operationsBlotter",
+        "minutes": 1
+      },
+      {
+        "id": "_j5t5gk33y",
+        "time": "1515298901482",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/trading/blotter",
+        "minutes": 1
+      },
+      {
+        "id": "_j5t5gk33y",
+        "time": "1515298961479",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/analytics/user/9fd15b49-d7fc-4949-b6e1-509dc9c03592",
+        "minutes": 2
+      },
+      {
+        "id": "_0hmuedz9a",
+        "time": "1515299568901",
+        "fqn": "AWSProd/T78G5/AutomationTests",
+        "hash": "#/app/operations/operationsBlotter",
+        "minutes": 1
+      },
+      {
+        "id": "_nmyxcnrc4",
+        "time": "1515299809070",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/trading/blotter",
+        "minutes": 1
+      },
+      {
+        "id": "_nmyxcnrc4",
+        "time": "1515299869063",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/analytics/user/440c720c-d3aa-4ae0-997e-edbc66d54da3",
+        "minutes": 2
+      },
+      {
+        "id": "_lakf633z2",
+        "time": "1515300460086",
+        "fqn": "AWSProd/T78G5/AutomationTests",
+        "hash": "#/app/operations/operationsBlotter",
+        "minutes": 1
+      },
+      {
+        "id": "_lakf633z2",
+        "time": "1515300520087",
+        "fqn": "AWSProd/T78G5/AutomationTests",
+        "hash": "#/app/analytics/user/96333e4d-4733-4b97-aa21-22ebf4a80b7b",
+        "minutes": 2
+      },
+      {
+        "id": "_gxva1jgcg",
+        "time": "1515300707391",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/trading/blotter",
+        "minutes": 1
+      },
+      {
+        "id": "_gxva1jgcg",
+        "time": "1515300767399",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/analytics/user/1ff1cad5-d94f-4a6b-a7dc-2437caed9030",
+        "minutes": 2
+      },
+      {
+        "id": "_fxrk4tsad",
+        "time": "1515301366048",
+        "fqn": "AWSProd/T78G5/AutomationTests",
+        "hash": "#/app/operations/operationsBlotter",
+        "minutes": 1
+      },
+      {
+        "id": "_8t2fyjmsi",
+        "time": "1515301618304",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/trading/blotter",
+        "minutes": 1
+      },
+      {
+        "id": "_8t2fyjmsi",
+        "time": "1515301678281",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/accounting/reports",
+        "minutes": 2
+      },
+      {
+        "id": "_8t2fyjmsi",
+        "time": "1515301738284",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/accounting/reports",
+        "minutes": 3
+      },
+      {
+        "id": "_8t2fyjmsi",
+        "time": "1515301798280",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/analytics/user/17c87d6f-098a-47f9-9cdd-a98df1623d48",
+        "minutes": 4
+      },
+      {
+        "id": "_90tdbn3bh",
+        "time": "1515302256941",
+        "fqn": "AWSProd/T78G5/AutomationTests",
+        "hash": "#/app/operations/operationsBlotter",
+        "minutes": 1
+      },
+      {
+        "id": "_w63n2fm69",
+        "time": "1515302504481",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/trading/blotter",
+        "minutes": 1
+      },
+      {
+        "id": "_w63n2fm69",
+        "time": "1515302564481",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/analytics/user/a1a3c458-b9ea-4482-9e39-c10f0bd8c123",
+        "minutes": 2
+      },
+      {
+        "id": "_km08kllow",
+        "time": "1515303159520",
+        "fqn": "AWSProd/T78G5/AutomationTests",
+        "hash": "#/app/operations/operationsBlotter",
+        "minutes": 1
+      },
+      {
+        "id": "_db20otv2e",
+        "time": "1515303408252",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/trading/blotter",
+        "minutes": 1
+      },
+      {
+        "id": "_db20otv2e",
+        "time": "1515303468249",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/analytics/user/be10bbc6-66a4-44c9-932e-8eed03545af1",
+        "minutes": 2
+      },
+      {
+        "id": "_9rp13o4xw",
+        "time": "1515304059693",
+        "fqn": "AWSProd/T78G5/AutomationTests",
+        "hash": "#/app/operations/operationsBlotter",
+        "minutes": 1
+      },
+      {
+        "id": "_lgppxunxb",
+        "time": "1515304308024",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/trading/blotter",
+        "minutes": 1
+      },
+      {
+        "id": "_lgppxunxb",
+        "time": "1515304368042",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/analytics/user/fb7494f7-b56f-4a29-9f15-c8ca21ed4978",
+        "minutes": 2
+      },
+      {
+        "id": "_6c4nzeoc2",
+        "time": "1515304973089",
+        "fqn": "AWSProd/T78G5/AutomationTests",
+        "hash": "#/app/operations/operationsBlotter",
+        "minutes": 1
+      },
+      {
+        "id": "_a97swjh12",
+        "time": "1515305193396",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/trading/blotter",
+        "minutes": 1
+      },
+      {
+        "id": "_a97swjh12",
+        "time": "1515305253393",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/analytics/user/6f1c8a64-e842-4198-833d-1d6750f4d6dc",
+        "minutes": 2
+      },
+      {
+        "id": "_of3atvehi",
+        "time": "1515305861794",
+        "fqn": "AWSProd/T78G5/AutomationTests",
+        "hash": "#/app/operations/operationsBlotter",
+        "minutes": 1
+      },
+      {
+        "id": "_c8owznmz7",
+        "time": "1515306106274",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/trading/blotter",
+        "minutes": 1
+      },
+      {
+        "id": "_c8owznmz7",
+        "time": "1515306166276",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/analytics/user/1f95c4a7-0705-47f2-9e4e-f50bc63b2316",
+        "minutes": 2
+      },
+      {
+        "id": "_1tu4eol8y",
+        "time": "1515306776805",
+        "fqn": "AWSProd/T78G5/AutomationTests",
+        "hash": "#/app/operations/operationsBlotter",
+        "minutes": 1
+      },
+      {
+        "id": "_j1sbgvhc0",
+        "time": "1515307028088",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/trading/blotter",
+        "minutes": 1
+      },
+      {
+        "id": "_j1sbgvhc0",
+        "time": "1515307088054",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/analytics/user/ff45e1a0-fa82-44e8-a774-98b1bd2fccbd",
+        "minutes": 2
+      },
+      {
+        "id": "_9c47z504h",
+        "time": "1515307674244",
+        "fqn": "AWSProd/T78G5/AutomationTests",
+        "hash": "#/app/operations/operationsBlotter",
+        "minutes": 1
+      },
+      {
+        "id": "_8yrx7mc82",
+        "time": "1515307909208",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/trading/blotter",
+        "minutes": 1
+      },
+      {
+        "id": "_8yrx7mc82",
+        "time": "1515307969200",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/analytics/user/79072719-7f8a-487a-b484-344448e696f8",
+        "minutes": 2
+      },
+      {
+        "id": "_rsgedo7hg",
+        "time": "1515308578205",
+        "fqn": "AWSProd/T78G5/AutomationTests",
+        "hash": "#/app/operations/operationsBlotter",
+        "minutes": 1
+      },
+      {
+        "id": "_z8pxydnue",
+        "time": "1515308819534",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/trading/blotter",
+        "minutes": 1
+      },
+      {
+        "id": "_z8pxydnue",
+        "time": "1515308879511",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/analytics/user/046b0a75-1ad0-4554-83df-8d3b9b001faa",
+        "minutes": 2
+      },
+      {
+        "id": "_hxpzj5wql",
+        "time": "1515309467896",
+        "fqn": "AWSProd/T78G5/AutomationTests",
+        "hash": "#/app/operations/operationsBlotter",
+        "minutes": 1
+      },
+      {
+        "id": "_krwyzuygh",
+        "time": "1515309710009",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/trading/blotter",
+        "minutes": 1
+      },
+      {
+        "id": "_krwyzuygh",
+        "time": "1515309770014",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/analytics/user/c2840adf-9c27-48be-a09b-1485a264707d",
+        "minutes": 2
+      },
+      {
+        "id": "_rm5jnoddk",
+        "time": "1515310361961",
+        "fqn": "AWSProd/T78G5/AutomationTests",
+        "hash": "#/app/operations/operationsBlotter",
+        "minutes": 1
+      },
+      {
+        "id": "_af2zwjnup",
+        "time": "1515310616129",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/trading/blotter",
+        "minutes": 1
+      },
+      {
+        "id": "_af2zwjnup",
+        "time": "1515310676131",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/analytics/user/3eae2b7a-5060-4ff7-836a-3abdde6e1fac",
+        "minutes": 2
+      },
+      {
+        "id": "_ppw2l0ziw",
+        "time": "1515311265071",
+        "fqn": "AWSProd/T78G5/AutomationTests",
+        "hash": "#/app/operations/operationsBlotter",
+        "minutes": 1
+      },
+      {
+        "id": "_u1x99i153",
+        "time": "1515311503674",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/trading/blotter",
+        "minutes": 1
+      },
+      {
+        "id": "_u1x99i153",
+        "time": "1515311563668",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/analytics/user/3647fa33-03bd-4441-87a6-6f625c01f3e3",
+        "minutes": 2
+      },
+      {
+        "id": "_u8o0hisn6",
+        "time": "1515312178628",
+        "fqn": "AWSProd/T78G5/AutomationTests",
+        "hash": "#/app/operations/operationsBlotter",
+        "minutes": 1
+      },
+      {
+        "id": "_4qo163v9j",
+        "time": "1515312420471",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/trading/blotter",
+        "minutes": 1
+      },
+      {
+        "id": "_4qo163v9j",
+        "time": "1515312480462",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/analytics/user/ca754a4a-579b-40ca-a2e1-d290df1b1406",
+        "minutes": 2
+      },
+      {
+        "id": "_7dtqp45lv",
+        "time": "1515313064783",
+        "fqn": "AWSProd/T78G5/AutomationTests",
+        "hash": "#/app/operations/operationsBlotter",
+        "minutes": 1
+      },
+      {
+        "id": "_7dtqp45lv",
+        "time": "1515313124803",
+        "fqn": "AWSProd/T78G5/AutomationTests",
+        "hash": "#/app/analytics/user/8d74731d-3709-4f74-b545-4050a302e9fb",
+        "minutes": 2
+      },
+      {
+        "id": "_bu3dvm73o",
+        "time": "1515313314613",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/trading/blotter",
+        "minutes": 1
+      },
+      {
+        "id": "_bu3dvm73o",
+        "time": "1515313374622",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/analytics/user/0bb62a77-936c-4e4f-a931-c6c957b02579",
+        "minutes": 2
+      },
+      {
+        "id": "_euhzqj6vi",
+        "time": "1515313982706",
+        "fqn": "AWSProd/T78G5/AutomationTests",
+        "hash": "#/app/operations/operationsBlotter",
+        "minutes": 1
+      },
+      {
+        "id": "_9rjfqbk3m",
+        "time": "1515314219080",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/trading/blotter",
+        "minutes": 1
+      },
+      {
+        "id": "_9rjfqbk3m",
+        "time": "1515314279107",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/analytics/user/6a0aadd6-b655-4c46-a142-65b097f2a492",
+        "minutes": 2
+      },
+      {
+        "id": "_8kmnf7jf9",
+        "time": "1515314864643",
+        "fqn": "AWSProd/T78G5/AutomationTests",
+        "hash": "#/app/operations/operationsBlotter",
+        "minutes": 1
+      },
+      {
+        "id": "_3e07wj98k",
+        "time": "1515315109294",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/trading/blotter",
+        "minutes": 1
+      },
+      {
+        "id": "_3e07wj98k",
+        "time": "1515315169359",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/analytics/user/5403f470-c5f2-4489-912c-b51330b1b35c",
+        "minutes": 2
+      },
+      {
+        "id": "_unp555bcs",
+        "time": "1515315776002",
+        "fqn": "AWSProd/T78G5/AutomationTests",
+        "hash": "#/app/operations/operationsBlotter",
+        "minutes": 1
+      },
+      {
+        "id": "_d9wiycghi",
+        "time": "1515316014797",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/trading/blotter",
+        "minutes": 1
+      },
+      {
+        "id": "_d9wiycghi",
+        "time": "1515316074788",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/analytics/user/e01e6985-6033-47df-9e4d-29ee168120be",
+        "minutes": 2
+      },
+      {
+        "id": "_1cqjvx3fh",
+        "time": "1515316669280",
+        "fqn": "AWSProd/T78G5/AutomationTests",
+        "hash": "#/app/operations/operationsBlotter",
+        "minutes": 1
+      },
+      {
+        "id": "_cier443ki",
+        "time": "1515316916974",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/trading/blotter",
+        "minutes": 1
+      },
+      {
+        "id": "_cier443ki",
+        "time": "1515316976973",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/analytics/user/680b36fd-6d46-469b-bd3a-65a2223791b6",
+        "minutes": 2
+      },
+      {
+        "id": "_w0kkqrutp",
+        "time": "1515317570634",
+        "fqn": "AWSProd/T78G5/AutomationTests",
+        "hash": "#/app/operations/operationsBlotter",
+        "minutes": 1
+      },
+      {
+        "id": "_esnhn3jx0",
+        "time": "1515317829150",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/trading/blotter",
+        "minutes": 1
+      },
+      {
+        "id": "_esnhn3jx0",
+        "time": "1515317889141",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/accounting/reports",
+        "minutes": 2
+      },
+      {
+        "id": "_esnhn3jx0",
+        "time": "1515317949153",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/accounting/reports",
+        "minutes": 3
+      },
+      {
+        "id": "_esnhn3jx0",
+        "time": "1515318009138",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/analytics/user/daaccdfb-501d-4fe8-956f-758db51f941f",
+        "minutes": 4
+      },
+      {
+        "id": "_slpmmgwtt",
+        "time": "1515318474308",
+        "fqn": "AWSProd/T78G5/AutomationTests",
+        "hash": "#/app/operations/operationsBlotter",
+        "minutes": 1
+      },
+      {
+        "id": "_pfp6inez2",
+        "time": "1515318712214",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/trading/blotter",
+        "minutes": 1
+      },
+      {
+        "id": "_pfp6inez2",
+        "time": "1515318772239",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/analytics/user/6341ad97-b4e4-4371-9904-fcff82236585",
+        "minutes": 2
+      },
+      {
+        "id": "_s29hel5fv",
+        "time": "1515321546947",
+        "fqn": "AWSProd/T78G5/AutomationTests",
+        "hash": "#/app/operations/operationsBlotter",
+        "minutes": 1
+      },
+      {
+        "id": "_jgp29yife",
+        "time": "1515322168282",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/trading/blotter",
+        "minutes": 1
+      },
+      {
+        "id": "_jgp29yife",
+        "time": "1515322228256",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/analytics/user/b3de018e-3a0b-4d9d-8f60-5bc1d640db8f",
+        "minutes": 2
+      },
+      {
+        "id": "_48tpgj229",
+        "time": "1515323883407",
+        "fqn": "AWSProd/T78G5/AutomationTests",
+        "hash": "#/app/operations/operationsBlotter",
+        "minutes": 1
+      },
+      {
+        "id": "_mrv29xjsx",
+        "time": "1515324778777",
+        "fqn": "AWSProd/T78G5/AutomationTests",
+        "hash": "#/app/operations/operationsBlotter",
+        "minutes": 1
+      },
+      {
+        "id": "_phkp1i06c",
+        "time": "1515325628792",
+        "fqn": "AWSProd/T78G5/AutomationTests",
+        "hash": "#/app/operations/operationsBlotter",
+        "minutes": 1
+      },
+      {
+        "id": "_jd635jprp",
+        "time": "1515325833179",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/trading/blotter",
+        "minutes": 1
+      },
+      {
+        "id": "_jd635jprp",
+        "time": "1515325893167",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/analytics/user/c954143f-757a-4e80-be04-71ccadbcf93d",
+        "minutes": 2
+      },
+      {
+        "id": "_t1v8fcsbi",
+        "time": "1515326528961",
+        "fqn": "AWSProd/T78G5/AutomationTests",
+        "hash": "#/app/operations/operationsBlotter",
+        "minutes": 1
+      },
+      {
+        "id": "_gvm1hn1dr",
+        "time": "1515326747003",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/trading/blotter",
+        "minutes": 1
+      },
+      {
+        "id": "_gvm1hn1dr",
+        "time": "1515326807000",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/analytics/user/83c16729-6366-44d2-b4b0-28ba374b74da",
+        "minutes": 2
+      },
+      {
+        "id": "_ab89g6lin",
+        "time": "1515327427306",
+        "fqn": "AWSProd/T78G5/AutomationTests",
+        "hash": "#/app/operations/operationsBlotter",
+        "minutes": 1
+      },
+      {
+        "id": "_mp70khla8",
+        "time": "1515327646396",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/trading/blotter",
+        "minutes": 1
+      },
+      {
+        "id": "_mp70khla8",
+        "time": "1515327706398",
+        "fqn": "AWSProd/T4QV4/AutomationTests",
+        "hash": "#/app/analytics/user/b4f139ed-6496-4794-9c30-90476e3aa51d",
+        "minutes": 2
+      },
+      {
+        "id": "_xxwx84msc",
+        "time": "1515328335275",
+        "fqn": "AWSProd/T78G5/AutomationTests",
+        "hash": "#/app/operations/operationsBlotter",
+        "minutes": 1
+      }
+    ]
+  }
+}
